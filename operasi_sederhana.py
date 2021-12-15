@@ -8,3 +8,4 @@ d = x / y
 e = x % y
 
 print("Hasil==>\n\t",a,"\n\t",b,"\n\t",c,"\n\t",d,"\n\t",e)
+
